@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.study.recipe.dao.IRecipeDao">
+
+	<sql id="search">
+		<!-- 1. test="" 안에서 searchType == 다른곳에서의 #{searchType} 2. 정적메소드 사용법 : @클래스풀네임@메소드이름(매개변수) -->
+		<if
+			test="@org.apache.commons.lang3.StringUtils@isNotBlank(searchWord)">
+				WHERE rec_content LIKE '%'||#{searchWord} ||'%'
+		</if>
+
+	</sql>
+
+
+	<select id="getTotalRowCount" resultType="int"
+		parameterType="com.study.recipe.vo.RecipeSearchVO">
+		SELECT count(*)
+		FROM recipe
+		<include refid="search"></include>
+
+
+		<!-- web.xml에서 DriverLoader 지우기 1. test="" 안에서 searchType == 다른 곳에서의 #{searchType} 
+			2. 정적 메소드 사용법 : @클래스풀네임@메소드이름(매개변수) -->
+
+	</select>
+
+
+
+	<select id="getRecipeList"
+		resultType="com.study.recipe.vo.RecipeVO"
+		parameterType="com.study.recipe.vo.RecipeSearchVO">
+		SELECT *
+		FROM (
+			SELECT ROWNUM as rnum, a.*
+			FROM(  SELECT
+						rec_no
+						,rec_title
+						,rec_content
+						,rec_url
+						,rec_img
+					FROM recipe
+					<include refid="search"></include>
+					ORDER BY rec_no desc) a
+		) b
+		WHERE rnum between #{firstRow} and #{lastRow}
+	</select>
+
+
+
+
+</mapper>

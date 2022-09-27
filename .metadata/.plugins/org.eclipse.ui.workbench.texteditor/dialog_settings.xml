@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jst.jsp.ui.internal.preferences.ui.JSPTemplatePreferencePage$JSPEditTemplateDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="48"/>
+		<item key="DIALOG_Y_ORIGIN" value="56"/>
+		<item key="DIALOG_WIDTH" value="598"/>
+		<item key="DIALOG_HEIGHT" value="397"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|10.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="search"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="search"/>
+			<item value="result"/>
+			<item value="length"/>
+			<item value="google"/>
+			<item value="comm"/>
+			<item value="mailWindow"/>
+			<item value="form-control"/>
+			<item value="form"/>
+			<item value="&#x09;&#x09;&lt;!-- // END : 댓글 등록 영역  --&gt;"/>
+			<item value="pagingVO"/>
+			<item value="searchVO"/>
+			<item value="8859"/>
+			<item value="paging"/>
+			<item value="maven"/>
+			<item value="d"/>
+		</list>
+		<list key="replacehistory">
+			<item value="cate"/>
+			<item value="searchVO"/>
+			<item value="pagingVO"/>
+			<item value="h"/>
+			<item value=".wow"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="759"/>
+		<item key="DIALOG_Y_ORIGIN" value="101"/>
+		<item key="DIALOG_WIDTH" value="343"/>
+		<item key="DIALOG_HEIGHT" value="438"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|10.0|0|GTK|1|"/>
+	</section>
+</section>

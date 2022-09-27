@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.study.aauser.dao.IUserDao">
+
+<!-- <select id="getUserList" resultType="com.study.user.vo.UserVO" parameterType="com.study.user.vo.UserVO">
+	SELECT *
+	FROM usertable
+</select>
+	
+	<update id="deleteUser" parameterType="com.study.user.vo.UserVO">
+		UPDATE usertable SET
+		del_yn = 'Y'
+		WHERE user_nm = #{userNm}
+	</update>
+ -->
+
+
+
+
+</mapper>

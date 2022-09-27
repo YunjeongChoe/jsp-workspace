@@ -1,0 +1,56 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<!DOCTYPE html>
+<html>
+<head>
+<%
+	request.setCharacterEncoding("utf-8");
+%>
+<meta charset="UTF-8">
+<%@ include file="/WEB-INF/inc/header.jsp"%>
+<title>Insert title here</title>
+</head>
+<body>
+	<%@ include file="/WEB-INF/inc/top.jsp"%>
+	${todoWrite }
+	<div>
+		<a href="todoWrite.wow" class="btn btn-primary btn-sm" ><span aria-hidden="true"></span>글쓰기</a>
+		<table class="table table-striped table-bordered table-hover">
+			<colgroup>
+				<col width="10%" />
+				<col width="15%" />
+				<col width="10%" />
+				<col width="15%" />
+			</colgroup>
+			<thead>
+				<tr>
+					<th>글번호</th>
+					<th>제목</th>
+					<th>작성자</th>
+					<th>등록일</th>
+				</tr>
+			</thead>
+			<tbody>
+				<c:forEach items="${todoList }" var="todoList">
+					<tr>
+						<td>${todoList.tdNo }</td>
+						<td class="text-left"><a
+							href="todoList.wow?tdNo=${todoList.tdNo }">
+								${todoList.tdTitle } </a></td>
+						<td>${todoList.tdWriter }</td>
+						<td>${todoList.tdDate }</td>
+					</tr>
+				</c:forEach>
+			</tbody>
+		</table>
+
+	</div>
+
+
+
+
+
+
+</body>
+</html>

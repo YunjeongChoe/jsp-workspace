@@ -1,0 +1,61 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:security="http://www.springframework.org/schema/security"
+	xsi:schemaLocation="http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-4.2.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<security:http use-expressions="true">
+		<security:intercept-url
+			pattern="/securityDB/member/*" access="isAuthenticated()" />
+		<security:intercept-url
+			pattern="/securityDB/manager/*" access="hasAuthority('USER_MANAGER')" />
+		<security:intercept-url pattern="/securityDB/*"
+			access="permitAll" />
+		<security:form-login />
+		<security:logout logout-url="/logout"
+			logout-success-url="/securityDB/index" />
+	</security:http>
+
+
+
+
+	<!-- 기본적으로 유저 정보 테이블 이름이 USERS, 권한정보 : Authorities, 컬럼 이름도 username, password 
+		username, authority -->
+	<security:authentication-manager>
+		<security:authentication-provider>
+			<security:jdbc-user-service
+				data-source-ref="datasource" />
+		</security:authentication-provider>
+	</security:authentication-manager>
+
+
+	<!-- 암호화를 위한 passwordEncoder -->
+	<bean id="passwordEncoder"
+		class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"></bean>
+
+	<!-- DB연동은 data-source만 지정해주면 된다, 테이블이름은 정확히. users 랑 authorities -->
+	<security:authentication-manager
+		alias="authenticationManager">
+		<security:authentication-provider>
+			<security:jdbc-user-service
+				data-source-ref="dataSource" />
+			<security:password-encoder
+				ref="passwordEncoder"></security:password-encoder>
+			<!--security에 passwordEncoder 설정 -->
+
+		</security:authentication-provider>
+	</security:authentication-manager>
+
+
+	<bean id="datasource"
+		class="org.apache.commons.dbcp2.BasicDataSource">
+		<property name="driverClassName" value="OrableDriver"></property>
+		<property name="url"
+			value="jdbc:oracle:thin:@localhost:1521:xe"></property>
+		<property name="username" value="jsp"></property>
+		<property name="password" value="password"></property>
+		<property name="defaultAutoCommit" value="true"></property>
+	</bean>
+
+
+</beans>

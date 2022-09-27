@@ -1,0 +1,33 @@
+프로젝트 설정 
+
+0.프로젝트 우클릭 - properties - java Build path + project facets
+
+1. pom.xml - spring은 라이브러리를 관리를 maven(빌드 툴)이다
+	pom.xml에 <dependency>추가하면 maven이 알아서 해당 lib 다운 받아서 프로젝트에 추가한다.
+	=> 우리가 할 일 : pom.xml에 <dependency>추가 	
+
+2. web.xml
+	2-1. encoding Filter 설정  				(스프링에서 제공해주는 필터)
+	2-2. contextLoaderListener 설정          (프로젝트 전체에 대한 설정)
+		- 관련 Spring 빈 파일 위치 설정
+	2-3. Servlet (DispatcherServlet) 설정   	
+		- 관련 Spring 빈 파일 위치 설정
+		
+
+3. 스프링 xml파일(spring bean configuration file)
+	3-1. Listener 파일           (context-*,   Service + Dao 빈)
+	3-2. DispatcherServlet 파일 (mvc-servlet, Controller빈)
+
+----------------------------------------------------------------------------------------------
+
+프로젝트 설정은 서버가 켜졌을 때 빈 등록을 어떻게 하는지에 관한 것
+=> 빈 등록이 잘 되어있다면 사용자의 요청을 처리 할 준비 완료
+
+
+
+
+
+
+
+
+

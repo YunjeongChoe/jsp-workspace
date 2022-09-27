@@ -1,0 +1,33 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:security="http://www.springframework.org/schema/security"
+	xsi:schemaLocation="http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-4.2.xsd
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	
+	<!-- Root Context: defines shared resources visible to all other web components -->
+	<security:http use-expressions="true">
+		<security:intercept-url pattern="/securityQuick/admin/**" access="hasAuthority('ROLE_ADMIN')" />
+		<security:intercept-url pattern="/securityQuick/manager/*" access="hasAuthority('ROLE_MANAGER')"/>
+		<security:intercept-url pattern="/securityQuick/member/*" access="hasAuthority('isAuthenticated()')"/>
+		<!-- isAuthenticated()는 로그인여부, 나머지는 우리가 설정한 권한 이름 -->
+		<security:intercept-url pattern="/securityQuick/*" access="permitAll"/>
+		<security:form-login/>
+		<security:logout logout-url="/logout" logout-success-url="/securityQuick/index"/>
+		
+	</security:http>
+	<security:authentication-manager>
+		<security:authentication-provider>
+			<security:user-service>
+				<security:user name="hch" password="1004" authorities="ROLE_ADMIN"/>
+				<security:user name="hys" password="1004" authorities="ROLE_MANAGER"/>
+				<security:user name="ids" password="1004" authorities="ROLE_MEMBER"/>
+			</security:user-service>
+		</security:authentication-provider>
+	</security:authentication-manager>
+		
+		
+		
+		
+		
+</beans>

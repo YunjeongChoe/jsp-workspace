@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;freeForm.jsp&apos; to &apos;free&apos;&#x0A;- Original project: &apos;study2_3&apos;&#x0A;- Destination element: &apos;free&apos;&#x0A;- Original element: &apos;freeForm.jsp&apos;" description="Copy file" element1="WebContent/free/freeForm.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1656480878752" target="/study3/WebContent/WEB-INF/views/free" units="0" version="1.0"/>
+</session>

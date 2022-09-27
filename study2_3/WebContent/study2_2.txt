@@ -1,0 +1,33 @@
+계층화 적용
+
+
+
+1. 같은 데이터인데 개발자가 헷갈려서 다른 데이터로 인식하는 경우
+-넥스트아이티교육센터학원, 넥스트아이티교육센터 <-개발자는 같은 데이터라고 봤지만. DB는 다르다고 인식
+넥스트아이티교육센터학원은 무조건 H01로 DB에 넣자
+
+2. 다른 데이터인데 비슷한 이름인 경우
+(용두동) 넥스트아이티교육센터학원, (둔산동) 넥스트아이티교육센터학원
+을 개발자는 다른데이터라고 인식했지만, DB는 같은 데이터로 인식
+
+DB에 넣을 때는 H01, H02로 넣자
+
+==> 코드로 쓰기로 하면 안 헷갈린다.
+
+3. 데이터 낭비
+한글 3byte 영어 1byte
+
+
+
+코드 적용하기
+-form,edit   :  comm_code 테이블 조회한 다음 c:forEach   
+-list, view  : comm_code 테이블 조회 X, free_board 조회하면서 join
+
+테이블 컬럼이랑 vo필드는 1대 1이 아님
+
+Member
+-form, edit : select2번해야됨. -jobList('JB00'), hobbyList('HB00')
+-list, view : VO에 memJobNm, memHobbyNm추가
+              join도 2번
+		FROM member a, comm_code b, comm_code C
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.spring.app.dao.ITodoDao">
+
+	<select id="getList" resultType="com.spring.app.vo.TodoVO" parameterType="com.spring.app.vo.TodoVO">
+		SELECT * 
+		FROM todolist
+	</select>
+	
+ <insert id="insert" parameterType="com.spring.app.vo.TodoVO" >
+		 INSERT INTO todolist (
+			    td_no         , td_title    , td_content
+			    , td_writer   , td_date
+		) VALUES (
+		  seq_todolist.nextval, #{tdTitle}, #{tdContent} 
+		, #{tdWriter}, sysdate
+		)
+	</insert>
+	
+	<select id="getTdNo" resultType="com.spring.app.vo.TodoVO" parameterType="int">
+		SELECT *
+		FROM todolist
+		WHERE td_no = #{tdNo}
+	</select>
+	
+	
+	
+		<!--
+	<update id="update" parameterType="com.spring.app.vo.TodoVO">
+		update todolist
+		set td_content = #{tdContent}
+		where 1=1
+		and td_writer = #{tdWriter}
+	</update>
+
+	<update id="delete" parameterType="com.spring.app.vo.TodoVO">
+		DELETE FROM todolist
+		WHERE td_writer = #{tdWriter}
+	</update>
+ -->
+
+
+
+
+</mapper>

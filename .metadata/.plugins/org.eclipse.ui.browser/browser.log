@@ -1,0 +1,683 @@
+
+6월 03, 2022 09:11:51.50 NEW SESSION
+6월 03, 2022 09:11:51.50 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 09:11:51.55 [4113:4113:0100/000000.557043:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 09:23:12.68 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 09:23:12.71 [4447:4447:0100/000000.683466:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 09:49:10.80 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 09:49:10.82 [5313:5313:0100/000000.828690:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 10:07:39.99 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 10:07:40.03 [5796:5796:0100/000000.031397:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 10:09:24.04 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 10:09:24.10 [5951:5951:0100/000000.109199:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 10:48:47.99 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 10:48:48.00 [6793:6793:0100/000000.004721:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 11:05:45.35 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 11:05:45.37 [7169:7169:0100/000000.366510:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 11:06:36.61 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 11:06:36.63 [7268:7268:0100/000000.636072:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 11:18:27.03 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 11:18:27.06 [7740:7740:0100/000000.067811:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 03, 2022 11:36:43.49 기존 브라우저 세션에서 여는 중입니다.
+6월 03, 2022 11:36:43.51 [8470:8470:0100/000000.519288:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 07, 2022 10:39:42.70 NEW SESSION
+6월 07, 2022 10:39:42.70 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 10:39:42.72 [6679:6679:0100/000000.722799:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 10:45:44.34 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 10:45:44.36 [6907:6907:0100/000000.369032:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 10:50:43.96 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 10:50:43.98 [7083:7083:0100/000000.987429:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 11:12:27.01 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 11:12:27.03 [7661:7661:0100/000000.029781:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 11:32:08.37 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 11:32:08.38 [8477:8477:0100/000000.371867:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 11:33:48.06 [8613:8613:0607/113348.060883:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 11:33:48.06 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 11:40:38.68 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 11:40:38.73 [8956:8956:0100/000000.733298:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 11:44:09.81 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 11:44:09.82 [9102:9102:0100/000000.828220:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 12:11:56.16 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 12:11:56.22 [9604:9604:0100/000000.225089:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 12:21:31.40 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 12:21:31.44 [9887:9887:0100/000000.441879:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 12:35:21.93 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 12:35:21.95 [10503:10503:0100/000000.949480:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 07, 2022 12:38:02.10 기존 브라우저 세션에서 여는 중입니다.
+6월 07, 2022 12:38:02.11 [10701:10701:0100/000000.117169:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 08, 2022 08:26:41.72 NEW SESSION
+6월 08, 2022 08:26:41.72 [2543:2543:0608/082641.725678:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 08:27:06.29 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 08:27:06.32 [2739:2739:0100/000000.321817:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 09:33:01.72 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 09:33:01.78 [4603:4603:0100/000000.786698:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 09:43:07.95 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 09:43:08.00 [4888:4888:0100/000000.002319:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:02:27.56 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:02:27.59 [5371:5371:0100/000000.595010:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:08:39.23 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:08:39.25 [5691:5691:0100/000000.252074:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:09:06.83 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:09:06.84 [5783:5783:0100/000000.845353:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:09:54.14 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:09:54.18 [5877:5877:0100/000000.185026:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:16:24.22 [6071:6071:0608/101624.224233:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:16:24.71 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:25:02.52 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:25:02.53 [6260:6260:0100/000000.531288:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:25:44.22 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:25:44.24 [6359:6359:0100/000000.243152:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:26:50.37 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:26:50.38 [6461:6461:0100/000000.384293:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 10:26:58.99 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 10:26:59.00 [6548:6548:0100/000000.009250:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 11:07:06.11 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 11:07:06.14 [7530:7530:0100/000000.141388:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 11:07:32.52 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 11:07:32.54 [7637:7637:0100/000000.546584:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 11:08:17.66 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 11:08:17.69 [7765:7765:0100/000000.695461:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 11:23:55.78 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 11:23:55.81 [8142:8142:0100/000000.806247:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 11:31:43.63 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 11:31:43.66 [8307:8307:0100/000000.662783:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 11:47:13.34 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 11:47:13.36 [8651:8651:0100/000000.363641:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 12:31:52.89 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 12:31:52.92 [9435:9435:0100/000000.909855:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 08, 2022 12:46:32.17 기존 브라우저 세션에서 여는 중입니다.
+6월 08, 2022 12:46:32.21 [10010:10010:0100/000000.215578:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 09, 2022 09:08:32.93 NEW SESSION
+6월 09, 2022 09:08:32.93 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 09:08:32.98 [3052:3052:0100/000000.983440:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 09:20:38.27 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 09:20:38.29 [3483:3483:0100/000000.299816:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 09:22:19.10 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 09:22:19.10 [3597:3597:0100/000000.108863:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 10:02:26.40 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 10:02:26.45 [4591:4591:0100/000000.451670:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 10:03:08.90 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 10:03:08.91 [4713:4713:0100/000000.912234:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 10:28:32.94 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 10:28:32.95 [5445:5445:0100/000000.942653:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 10:33:01.37 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 10:33:01.38 [5632:5632:0100/000000.384388:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 10:36:44.05 [5827:5827:0609/103644.056489:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 10:49:04.51 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 10:49:04.53 [6323:6323:0100/000000.536596:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 11:10:22.99 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 11:10:23.03 [6850:6850:0100/000000.038816:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 11:10:35.37 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 11:10:35.38 [6939:6939:0100/000000.383634:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 11:11:20.84 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 11:11:20.86 [7033:7033:0100/000000.861662:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 11:11:35.03 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 11:11:35.06 [7129:7129:0100/000000.065831:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 11:11:40.68 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 11:11:40.69 [7213:7213:0100/000000.696521:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 12:02:08.93 [5778:5778:0609/120208.937183:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 09, 2022 12:09:19.11 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 12:09:19.15 [8762:8762:0100/000000.156064:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 12:10:01.44 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 12:10:01.45 [8859:8859:0100/000000.447088:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 12:12:54.72 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 12:12:54.74 [9013:9013:0100/000000.742804:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 15:03:23.04 [5778:5778:0609/150323.048903:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 09, 2022 15:06:21.90 [5778:5778:0609/150621.907520:ERROR:interface_endpoint_client.cc(659)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 09, 2022 15:06:31.75 Gtk-Message: 15:06:31.756: GtkDialog mapped without a transient parent. This is discouraged.
+6월 09, 2022 15:06:45.33 Gtk-Message: 15:06:45.334: GtkDialog mapped without a transient parent. This is discouraged.
+6월 09, 2022 15:08:02.62 Gtk-Message: 15:08:02.629: GtkDialog mapped without a transient parent. This is discouraged.
+6월 09, 2022 15:08:55.03 [5778:5778:0609/150855.039767:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 09, 2022 15:10:30.60 Gtk-Message: 15:10:30.602: GtkDialog mapped without a transient parent. This is discouraged.
+6월 09, 2022 16:11:35.88 [5778:5778:0609/161135.888686:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623293:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (0)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623335:ERROR:CONSOLE(0)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (0)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623847:ERROR:CONSOLE(56)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (56)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623872:ERROR:CONSOLE(57)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (57)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623902:ERROR:CONSOLE(58)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (58)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623922:ERROR:CONSOLE(59)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (59)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623951:ERROR:CONSOLE(60)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (60)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623971:ERROR:CONSOLE(61)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (61)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.623993:ERROR:CONSOLE(62)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (62)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.624012:ERROR:CONSOLE(63)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (63)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.624036:ERROR:CONSOLE(64)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (64)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.624055:ERROR:CONSOLE(65)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (65)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.624080:ERROR:CONSOLE(66)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (66)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.624099:ERROR:CONSOLE(67)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (67)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.624119:ERROR:CONSOLE(68)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (68)
+6월 09, 2022 16:52:56.62 [5778:5778:0609/165256.624135:ERROR:CONSOLE(69)] "Blocked script execution in 'data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success...%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E' because the document's frame is sandboxed and the 'allow-scripts' permission is not set.", source: data:text/html,%3C!DOCTYPE%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%3Cmeta%20charset=%22UTF-8%22%3E%0A%3Ctitle%3EInsert%20title%20here%3C/title%3E%0A%09%3Cscript%20src=%22http://code.jquery.com/jquery-latest.min.js%22%3E%3C/script%3E%0A%0A%3Cscript%3E%0A/*%20function%20fn_ajax01()%7B%0A%20console.log(%22fn_ajax01:::%22);%0A%20$.ajax(%7B%0A%20%20url:%22/sample01_ajax/fn_ajax01.do%22,%20type:%22post%22,data:%7Bname:%22jQuery%22,%20lecture:%22Ajax%22%7D,%0A%20%20success:function()%7B%0A%20%20%20alert(%22success%22);%0A%20%20%7D,%0A%20%20error:function(e)%7B%0A%20%20%20alert(%22error%22);%0A%20%20%20console.log(%22e.status:::::%22+e.status);%0A%20%20%7D%0A%20%7D);%0A%7D%20*/%0Afunction%20fn_ajax00()%7B%0A%09alert(%22fn_ajax00%22);%0A%09$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax00.do%22%20%20%20%20//http://localhost:8080/%20%3C-%20sample%EC%95%9E%EC%9D%98%20/%0A%09%09,type:%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%0A%7D%0A%0Afunction%20fn_ajax01()%7B%0A%09alert(%22fn_ajax01%22);%0A%09%20$.ajax(%7B%0A%09%09url:%22/sample01_ajax/fn_ajax01.do%22%0A%09%09,type:%20%22post%22%0A%09%09,success:function()%7B%0A%09%09%09alert(%22success%22);%0A%09%09%7D%0A%09%09,error:function()%7B%0A%09%09%09alert(%22error%22);%0A%09%09%7D%0A%09%7D);%20%0A%7D%0A%0A%0A%3C/script%3E%0A%3C/head%3E%0A%0A%3Cbody%3E%0A%09%3Ch3%3Etest_ajax01%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%9E%85%EB%8B%88%EB%8B%A4.%3C/h3%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax00()%22%20value=%22fn_ajax00%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax01()%22%20value=%22fn_ajax01%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax02()%22%20value=%22fn_ajax02%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03()%22%20value=%22fn_ajax03%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax03_1()%22%20value=%22fn_ajax03_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04()%22%20value=%22fn_ajax04%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax04_1()%22%20value=%22fn_ajax04_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05()%22%20value=%22fn_ajax05%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax05_1()%22%20value=%22fn_ajax05_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06()%22%20value=%22fn_ajax06%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax06_1()%22%20value=%22fn_ajax06_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07()%22%20value=%22fn_ajax07%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax07_1()%22%20value=%22fn_ajax07_1%22%3E%0A%09%3Cinput%20type=%22button%22%20onclick=%22fn_ajax08()%22%20value=%22fn_ajax08%22%3E%0A%3C/body%3E%0A%3C/html%3E (69)
+6월 09, 2022 17:20:11.20 [5778:5778:0609/172011.203237:ERROR:interface_endpoint_client.cc(659)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 09, 2022 17:20:27.23 [5778:16379:0609/172027.234987:ERROR:database.cc(1782)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974297:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974160:ERROR:archive_handler.h(89)] Failed to fetch [Content_Types].xml of size 2143 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974417:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974388:ERROR:archive_handler.h(89)] Failed to fetch _rels/.rels of size 590 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974505:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974483:ERROR:archive_handler.h(89)] Failed to fetch word/_rels/document.xml.rels of size 3886 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974640:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974614:ERROR:archive_handler.h(89)] Failed to fetch word/document.xml of size 449120 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974728:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974706:ERROR:archive_handler.h(89)] Failed to fetch word/header1.xml of size 9576 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974794:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974772:ERROR:archive_handler.h(89)] Failed to fetch word/footer1.xml of size 2601 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974867:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974845:ERROR:archive_handler.h(89)] Failed to fetch word/endnotes.xml of size 2590 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974930:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974909:ERROR:archive_handler.h(89)] Failed to fetch word/footnotes.xml of size 2596 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974994:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.974972:ERROR:archive_handler.h(89)] Failed to fetch word/footer2.xml of size 2483 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975070:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975049:ERROR:archive_handler.h(89)] Failed to fetch word/theme/theme1.xml of size 6915 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975141:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975120:ERROR:archive_handler.h(89)] Failed to fetch word/media/image8.png of size 84899 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975197:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975176:ERROR:archive_handler.h(89)] Failed to fetch word/media/image10.png of size 2467 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975268:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975246:ERROR:archive_handler.h(89)] Failed to fetch word/media/image9.png of size 29501 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975339:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975317:ERROR:archive_handler.h(89)] Failed to fetch word/media/image5.png of size 25658 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975409:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975388:ERROR:archive_handler.h(89)] Failed to fetch word/media/image6.png of size 23157 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975480:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975458:ERROR:archive_handler.h(89)] Failed to fetch word/media/image1.png of size 69314 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975546:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975525:ERROR:archive_handler.h(89)] Failed to fetch word/media/image2.png of size 24017 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975623:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975600:ERROR:archive_handler.h(89)] Failed to fetch word/media/image3.png of size 64852 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975699:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.975679:ERROR:archive_handler.h(89)] Failed to fetch word/media/image4.png of size 69311 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.977766:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.977548:ERROR:archive_handler.h(89)] Failed to fetch word/media/image7.png of size 64153 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.977897:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.977872:ERROR:archive_handler.h(89)] Failed to fetch word/settings.xml of size 4111 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.977962:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.977940:ERROR:archive_handler.h(89)] Failed to fetch word/webSettings.xml of size 2256 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978053:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978030:ERROR:archive_handler.h(89)] Failed to fetch word/styles.xml of size 45862 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978140:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978117:ERROR:archive_handler.h(89)] Failed to fetch word/numbering.xml of size 5272 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978206:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978185:ERROR:archive_handler.h(89)] Failed to fetch docProps/core.xml of size 764 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978272:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978252:ERROR:archive_handler.h(89)] Failed to fetch word/fontTable.xml of size 3671 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978337:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978316:ERROR:archive_handler.h(89)] Failed to fetch docProps/app.xml of size 974 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978437:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978414:ERROR:archive_handler.h(89)] Failed to fetch word/media/image11.png of size 69314 with error code: -1
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978535:ERROR:archive_handler.cc(45)] Not implemented!
+6월 09, 2022 17:27:54.97 [16647:1:0609/172754.978510:ERROR:archive_handler.h(89)] Failed to fetch word/media/image20.png of size 24017 with error code: -1
+6월 09, 2022 17:28:02.61 func=xmlSecCheckVersionExt:file=xmlsec.c:line=188:obj=unknown:subj=unknown:error=19:invalid version:mode=abi compatible;expected minor version=2;real minor version=2;expected subminor version=25;real subminor version=26
+6월 09, 2022 17:35:07.91 [5827:5827:0609/173507.912667:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 09, 2022 17:35:07.91 [5778:5778:0609/173507.913286:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 09, 2022 17:35:07.91 [5827:5827:0609/173507.914872:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 09, 2022 17:35:07.91 [5827:5827:0609/173507.917023:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 09, 2022 17:47:03.78 [17231:17231:0609/174703.788010:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 18:10:24.29 [17231:17231:0609/181024.291321:ERROR:shared_image_representation.cc(218)] Attempt to read from an uninitialized SharedImage. Initialized region: (0, 0, 448, 64) Size: (512, 64)
+6월 09, 2022 18:38:32.39 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 18:38:32.42 [18296:18296:0100/000000.424557:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 18:53:23.28 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 18:53:23.30 [18746:18746:0100/000000.309488:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 18:53:49.77 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 18:53:49.81 [18840:18840:0100/000000.814786:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 18:54:42.66 기존 브라우저 세션에서 여는 중입니다.
+6월 09, 2022 18:54:42.67 [18989:18989:0100/000000.677154:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 09, 2022 19:12:49.16 [17185:17185:0609/191249.169343:ERROR:interface_endpoint_client.cc(659)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+6월 10, 2022 08:26:00.07 NEW SESSION
+6월 10, 2022 08:26:00.07 [2359:2359:0610/082600.071602:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 08:30:11.65 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 08:30:11.67 [2783:2783:0100/000000.671875:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 08:31:13.18 [2908:2908:0610/083113.183317:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 08:31:13.18 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 08:48:53.54 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 08:48:53.55 [3301:3301:0100/000000.548647:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 09:01:34.86 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 09:01:34.87 [3646:3646:0100/000000.862245:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 09:28:04.54 Fontconfig error: Cannot load default config file: No such file: (null)
+6월 10, 2022 10:02:07.16 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 10:02:07.18 [4731:4731:0100/000000.181508:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 10:03:18.52 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 10:03:18.52 [4950:4950:0100/000000.525634:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 10:03:44.16 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 10:03:44.21 [5102:5102:0100/000000.212324:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 10, 2022 10:04:20.72 NEW SESSION
+6월 10, 2022 10:04:20.72 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 10:04:20.80 [5375:5375:0100/000000.800774:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 10:07:48.75 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 10:07:48.75 [5491:5491:0100/000000.757517:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:15:54.87 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:15:54.88 [7325:7325:0100/000000.877128:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:16:11.58 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:16:11.59 [7424:7424:0100/000000.593364:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:16:32.13 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:16:32.15 [7513:7513:0100/000000.156435:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:35:31.99 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:35:32.01 [8105:8105:0100/000000.016874:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:37:45.18 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:37:45.20 [8266:8266:0100/000000.208825:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:44:26.70 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:44:26.75 [8523:8523:0100/000000.758534:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:46:01.00 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:46:01.02 [8641:8641:0100/000000.009429:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:47:02.43 [8742:8742:0610/114702.431560:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:47:02.58 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:49:12.85 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:49:12.87 [8877:8877:0100/000000.874063:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:49:36.48 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 11:49:36.49 [8974:8974:0100/000000.494076:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:50:42.32 [9097:9097:0610/115042.323893:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 11:50:43.14 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:03:54.00 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:03:54.00 [9334:9334:0100/000000.004798:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:09:31.60 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:09:31.63 [9551:9551:0100/000000.635101:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:10:04.70 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:10:04.75 [9658:9658:0100/000000.750750:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:14:42.62 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:14:42.63 [9932:9932:0100/000000.637871:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:15:01.75 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:15:01.76 [10034:10034:0100/000000.764797:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:16:56.81 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:16:56.81 [10164:10164:0610/121656.811503:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:20:01.22 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:20:01.23 [10307:10307:0100/000000.226715:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:20:12.73 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:20:12.77 [10403:10403:0100/000000.777488:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:22:30.44 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:22:30.45 [10549:10549:0100/000000.454949:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:26:18.13 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:26:18.16 [10739:10739:0100/000000.168392:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:29:44.80 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:29:44.81 [10930:10930:0100/000000.819854:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:32:01.72 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:32:01.76 [11089:11089:0100/000000.761883:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:32:53.04 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:32:53.05 [11189:11189:0100/000000.055572:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:34:02.97 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:34:03.00 [11292:11292:0100/000000.006825:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:34:47.32 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:34:47.34 [11399:11399:0100/000000.345695:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:35:20.50 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:35:20.52 [11513:11513:0100/000000.527612:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:36:00.51 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:36:00.57 [11612:11612:0100/000000.575446:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:38:27.13 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:38:27.17 [11760:11760:0100/000000.172417:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:38:36.27 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:38:36.27 [11854:11854:0100/000000.276403:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:40:02.79 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:40:02.81 [11996:11996:0100/000000.814056:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:40:35.65 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:40:35.68 [12097:12097:0100/000000.685231:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:40:48.21 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:40:48.23 [12188:12188:0100/000000.230020:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:41:05.81 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:41:05.83 [12280:12280:0100/000000.832516:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:46:30.10 [12516:12516:0610/124630.108675:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 12:46:30.11 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:48:52.78 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 12:48:52.82 [12625:12625:0100/000000.821756:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 13:39:38.21 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 13:39:38.23 [13079:13079:0100/000000.239369:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 13:41:57.96 [13214:13214:0610/134157.962639:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 13:41:57.97 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 14:23:33.13 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 14:23:33.18 [13908:13908:0100/000000.181518:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 10, 2022 14:23:48.51 기존 브라우저 세션에서 여는 중입니다.
+6월 10, 2022 14:23:48.52 [14003:14003:0100/000000.527082:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 13, 2022 09:25:21.14 NEW SESSION
+6월 13, 2022 09:25:21.14 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 09:25:21.14 [3364:3364:0100/000000.148119:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 09:27:04.05 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 09:27:04.08 [3602:3602:0100/000000.080038:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 10:13:51.90 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 10:13:51.91 [4671:4671:0100/000000.917031:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 10:17:41.26 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 10:17:41.29 [4817:4817:0100/000000.290743:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 10:24:45.25 [4999:4999:0613/102445.252857:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 10:24:45.26 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 10:37:00.94 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 10:37:00.97 [5283:5283:0100/000000.973803:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 10:40:53.11 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 10:40:53.15 [5424:5424:0100/000000.151395:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 10:42:47.37 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 10:42:47.39 [5533:5533:0100/000000.390410:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 10:47:53.66 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 10:47:53.66 [5780:5780:0100/000000.664349:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:06:56.01 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 11:06:56.06 [6090:6090:0100/000000.065106:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:22:15.12 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 11:22:15.13 [6703:6703:0100/000000.134905:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:28:26.89 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 11:28:26.92 [6935:6935:0100/000000.920627:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:31:45.09 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 11:31:45.12 [7167:7167:0100/000000.121211:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:31:51.69 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 11:31:51.71 [7257:7257:0100/000000.715575:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:38:24.06 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 11:38:24.09 [7608:7608:0100/000000.098791:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:41:24.26 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 11:41:24.28 [7748:7748:0100/000000.284070:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:50:36.49 [8018:8018:0613/115036.491125:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 11:50:36.49 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:14:23.92 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:14:23.95 [8679:8679:0100/000000.958140:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 12:17:13.83 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:17:13.84 [8878:8878:0100/000000.840461:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 12:18:51.84 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:18:51.87 [9001:9001:0100/000000.876462:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 12:28:15.79 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:28:15.82 [9387:9387:0100/000000.828230:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 12:32:24.91 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:32:24.96 [9595:9595:0100/000000.963754:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 12:35:25.71 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:35:25.71 [9764:9764:0100/000000.713920:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 12:44:10.01 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:44:10.04 [10091:10091:0100/000000.046047:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 12:44:50.08 [10209:10209:0613/124450.085348:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 12:44:50.09 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:48:27.98 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 12:48:27.99 [10424:10424:0100/000000.995981:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 13:44:49.40 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 13:44:49.42 [10883:10883:0100/000000.404162:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 13:52:26.51 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 13:52:26.53 [11118:11118:0100/000000.534200:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 13:53:57.16 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 13:53:57.18 [11475:11475:0100/000000.187875:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 14:04:59.74 기존 브라우저 세션에서 여는 중입니다.
+6월 13, 2022 14:04:59.79 [12308:12308:0100/000000.792467:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 15:05:51.07 [13781:13781:0613/150551.071957:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 13, 2022 15:05:51.07 기존 브라우저 세션에서 여는 중입니다.
+
+6월 14, 2022 08:47:46.67 NEW SESSION
+6월 14, 2022 08:47:46.67 [2601:2601:0614/084746.658920:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 09:13:40.07 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 09:13:40.07 [3197:3197:0100/000000.078248:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 09:40:31.40 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 09:40:31.41 [3930:3930:0100/000000.418661:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 09:48:59.43 [2556:2556:0614/094859.436116:ERROR:interface_endpoint_client.cc(659)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 14, 2022 09:48:59.43 [2556:2556:0614/094859.436175:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 14, 2022 09:48:59.44 [2556:2556:0614/094859.440303:ERROR:interface_endpoint_client.cc(659)] Message 0 rejected by interface blink.mojom.WidgetHost
+6월 14, 2022 09:52:00.42 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 09:52:00.43 [4408:4408:0100/000000.439205:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 09:55:20.07 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 09:55:20.08 [4565:4565:0100/000000.083709:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 09:56:32.25 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 09:56:32.26 [4685:4685:0100/000000.264315:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 09:56:41.62 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 09:56:41.65 [4774:4774:0100/000000.657496:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 10:14:29.92 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 10:14:29.97 [5200:5200:0100/000000.971878:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 10:25:27.01 [2601:2601:0614/102527.016473:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:25:27.01 [2601:2601:0614/102527.016768:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:28:43.34 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 10:28:43.37 [5728:5728:0100/000000.370169:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 10:31:44.70 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 10:31:44.77 [5870:5870:0100/000000.777992:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 10:31:58.71 [2601:2601:0614/103158.713742:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:31:58.71 [2601:2601:0614/103158.714220:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:33:01.97 [2601:2601:0614/103301.973633:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:33:01.97 [2601:2601:0614/103301.974217:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:33:06.08 [2601:2601:0614/103306.080033:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:33:06.08 [2601:2601:0614/103306.080211:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:35:37.17 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 10:35:37.19 [6148:6148:0100/000000.182002:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 10:45:10.60 [2601:2601:0614/104510.609472:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 10:45:10.61 [2601:2601:0614/104510.610225:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 11:03:48.28 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 11:03:48.32 [6741:6741:0100/000000.322033:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 11:05:13.42 [2601:2601:0614/110513.428523:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 11:05:13.42 [2601:2601:0614/110513.428777:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 14, 2022 12:45:32.56 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 12:45:32.57 [13428:13428:0100/000000.579369:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 12:47:00.63 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 12:47:00.65 [13549:13549:0100/000000.656793:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 17:18:32.42 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 17:18:32.42 [18724:18724:0100/000000.429012:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 17:54:09.05 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 17:54:09.05 [19487:19487:0100/000000.057311:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 18:20:01.14 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 18:20:01.17 [20217:20217:0100/000000.157065:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 14, 2022 18:44:30.20 기존 브라우저 세션에서 여는 중입니다.
+6월 14, 2022 18:44:30.21 [20978:20978:0100/000000.212384:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 15, 2022 08:41:36.89 NEW SESSION
+6월 15, 2022 08:41:36.89 [2718:2718:0615/084136.890941:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 09:06:36.20 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 09:06:36.20 [3966:3966:0100/000000.203987:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 09:39:44.65 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 09:39:44.66 [4850:4850:0100/000000.656663:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 10:15:53.05 [2718:2718:0615/101553.051385:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 10:15:53.05 [2718:2718:0615/101553.052357:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 10:32:53.92 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 10:32:53.96 [6166:6166:0100/000000.967788:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 10:33:06.70 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 10:33:06.71 [6258:6258:0100/000000.706537:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 10:33:13.09 [2718:2718:0615/103313.098792:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 10:33:13.09 [2718:2718:0615/103313.099135:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 10:46:56.34 [2718:2718:0615/104656.348820:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 10:46:56.34 [2718:2718:0615/104656.349145:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 11:30:42.50 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 11:30:42.50 [7820:7820:0100/000000.507423:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 11:45:11.66 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 11:45:11.68 [8528:8528:0100/000000.682633:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 12:08:21.18 [2718:2718:0615/120821.188883:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 12:08:21.18 [2718:2718:0615/120821.189404:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 12:11:43.78 [2718:2718:0615/121143.789637:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 12:11:43.79 [2718:2718:0615/121143.790183:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 15, 2022 12:29:24.65 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 12:29:24.70 [9470:9470:0100/000000.700910:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 12:38:44.62 [9781:9781:0615/123844.622932:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 12:38:44.62 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 12:38:58.82 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 12:38:58.84 [9880:9880:0100/000000.847342:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 15, 2022 12:40:37.10 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 12:40:37.14 [9990:9990:0100/000000.144038:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 15, 2022 17:28:05.71 NEW SESSION
+6월 15, 2022 17:28:05.71 기존 브라우저 세션에서 여는 중입니다.
+6월 15, 2022 17:28:05.73 [14847:14847:0100/000000.732170:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 16, 2022 14:35:13.32 NEW SESSION
+6월 16, 2022 14:35:13.32 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 14:35:13.33 [13317:13317:0100/000000.339148:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 14:35:23.93 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 14:35:23.96 [13411:13411:0100/000000.969664:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 15:27:09.62 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 15:27:09.65 [14826:14826:0100/000000.650229:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 15:32:15.36 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 15:32:15.40 [15125:15125:0100/000000.407920:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 15:37:47.62 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 15:37:47.62 [15344:15344:0100/000000.628633:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 15:56:50.69 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 15:56:50.69 [15967:15967:0100/000000.693091:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 15:57:02.41 [16054:16054:0616/155702.418661:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 15:57:02.42 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 15:58:09.44 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 15:58:09.46 [16228:16228:0100/000000.468818:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 16:03:24.36 [16423:16423:0100/000000.350083:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 16:03:24.36 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 16:04:06.27 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 16:04:06.28 [16581:16581:0100/000000.283474:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 16, 2022 17:18:22.57 기존 브라우저 세션에서 여는 중입니다.
+6월 16, 2022 17:18:22.59 [18220:18220:0100/000000.597789:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 17, 2022 13:57:23.32 NEW SESSION
+6월 17, 2022 13:57:23.32 [2580:2580:0617/135723.325786:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 17, 2022 13:59:26.69 [2535:2535:0617/135926.697647:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 17, 2022 14:34:56.59 기존 브라우저 세션에서 여는 중입니다.
+6월 17, 2022 14:34:56.64 [4843:4843:0100/000000.648960:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 17, 2022 15:13:46.48 [2580:2580:0617/151346.487068:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 17, 2022 15:13:46.48 [2580:2580:0617/151346.487460:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 17, 2022 15:42:55.47 기존 브라우저 세션에서 여는 중입니다.
+6월 17, 2022 15:42:55.51 [6753:6753:0100/000000.518166:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 17, 2022 15:55:58.64 기존 브라우저 세션에서 여는 중입니다.
+6월 17, 2022 15:55:58.67 [7075:7075:0100/000000.671328:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 17, 2022 16:09:05.13 기존 브라우저 세션에서 여는 중입니다.
+6월 17, 2022 16:09:05.16 [7438:7438:0100/000000.164401:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 17, 2022 16:09:30.36 [2580:2580:0617/160930.364447:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+6월 17, 2022 16:58:55.66 [2535:8328:0617/165855.661765:ERROR:database.cc(1782)] Passwords SQLite error: code 2067 errno 0: UNIQUE constraint failed: logins.origin_url, logins.username_element, logins.username_value, logins.password_element, logins.signon_realm sql: INSERT INTO logins (origin_url, action_url, username_element, username_value, password_element, password_value, submit_element, signon_realm, date_created, blacklisted_by_user, scheme, password_type, times_used, form_data, display_name, icon_url, federation_url, skip_zero_click, generation_upload_status, possible_username_pairs, id, date_last_used, moving_blocked_for, date_password_modified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+
+6월 20, 2022 15:20:19.80 NEW SESSION
+6월 20, 2022 15:20:19.80 기존 브라우저 세션에서 여는 중입니다.
+6월 20, 2022 15:20:19.81 [12318:12318:0100/000000.816462:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 20, 2022 15:20:41.00 기존 브라우저 세션에서 여는 중입니다.
+6월 20, 2022 15:20:41.01 [12416:12416:0100/000000.014969:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 20, 2022 17:03:08.67 기존 브라우저 세션에서 여는 중입니다.
+6월 20, 2022 17:03:08.71 [15390:15390:0100/000000.714526:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 20, 2022 17:16:24.36 기존 브라우저 세션에서 여는 중입니다.
+6월 20, 2022 17:16:24.37 [16146:16146:0100/000000.378440:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 20, 2022 17:16:34.02 기존 브라우저 세션에서 여는 중입니다.
+6월 20, 2022 17:16:34.03 [16234:16234:0100/000000.037579:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 20, 2022 17:24:57.64 기존 브라우저 세션에서 여는 중입니다.
+6월 20, 2022 17:24:57.67 [16495:16495:0100/000000.670596:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 21, 2022 13:54:01.68 NEW SESSION
+6월 21, 2022 13:54:01.68 기존 브라우저 세션에서 여는 중입니다.
+6월 21, 2022 13:54:01.74 [10450:10450:0100/000000.745311:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 21, 2022 14:08:50.77 NEW SESSION
+6월 21, 2022 14:08:50.77 기존 브라우저 세션에서 여는 중입니다.
+6월 21, 2022 14:08:50.85 [11512:11512:0100/000000.848442:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 21, 2022 14:31:27.33 기존 브라우저 세션에서 여는 중입니다.
+6월 21, 2022 14:31:27.34 [13114:13114:0100/000000.346471:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 21, 2022 15:05:21.13 기존 브라우저 세션에서 여는 중입니다.
+6월 21, 2022 15:05:21.14 [13984:13984:0100/000000.143447:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 21, 2022 16:40:18.11 기존 브라우저 세션에서 여는 중입니다.
+6월 21, 2022 16:40:18.13 [17684:17684:0100/000000.136257:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 21, 2022 17:35:39.90 기존 브라우저 세션에서 여는 중입니다.
+6월 21, 2022 17:35:39.94 [20253:20253:0100/000000.945585:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 21, 2022 18:48:56.83 기존 브라우저 세션에서 여는 중입니다.
+6월 21, 2022 18:48:56.85 [22290:22290:0100/000000.855346:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 22, 2022 15:54:34.33 NEW SESSION
+6월 22, 2022 15:54:34.33 [16026:16026:0622/155434.336115:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 22, 2022 15:54:34.34 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 16:08:29.94 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 16:08:29.96 [16510:16510:0100/000000.965335:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 22, 2022 16:34:44.08 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 16:34:44.15 [17402:17402:0100/000000.149994:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 22, 2022 16:38:47.01 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 16:38:47.06 [17751:17751:0100/000000.060132:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 22, 2022 17:17:01.50 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 17:17:01.53 [18385:18385:0100/000000.536934:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 22, 2022 17:34:02.19 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 17:34:02.21 [18872:18872:0100/000000.215122:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 22, 2022 17:34:47.50 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 17:34:47.54 [18973:18973:0100/000000.542245:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 22, 2022 17:58:22.08 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 17:58:22.11 [19638:19638:0100/000000.116348:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 22, 2022 18:07:39.98 기존 브라우저 세션에서 여는 중입니다.
+6월 22, 2022 18:07:40.02 [19881:19881:0100/000000.023933:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 23, 2022 14:53:56.32 NEW SESSION
+6월 23, 2022 14:53:56.32 기존 브라우저 세션에서 여는 중입니다.
+6월 23, 2022 14:53:56.35 [5337:5337:0100/000000.350121:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 23, 2022 15:26:05.79 기존 브라우저 세션에서 여는 중입니다.
+6월 23, 2022 15:26:05.82 [6231:6231:0100/000000.824675:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 23, 2022 16:16:23.23 기존 브라우저 세션에서 여는 중입니다.
+6월 23, 2022 16:16:23.26 [8267:8267:0100/000000.268063:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 24, 2022 14:22:25.55 NEW SESSION
+6월 24, 2022 14:22:25.55 [9868:9868:0624/142225.554669:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 24, 2022 14:58:20.82 [9822:9822:0624/145820.824175:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+6월 24, 2022 15:00:12.09 기존 브라우저 세션에서 여는 중입니다.
+6월 24, 2022 15:00:12.13 [10632:10632:0100/000000.133006:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 24, 2022 15:15:38.77 NEW SESSION
+6월 24, 2022 15:15:38.77 기존 브라우저 세션에서 여는 중입니다.
+6월 24, 2022 15:15:38.80 [11714:11714:0100/000000.793987:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 24, 2022 15:33:28.90 기존 브라우저 세션에서 여는 중입니다.
+6월 24, 2022 15:33:28.92 [12318:12318:0100/000000.925511:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 24, 2022 15:39:28.83 기존 브라우저 세션에서 여는 중입니다.
+6월 24, 2022 15:39:28.85 [12562:12562:0100/000000.859329:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 24, 2022 16:07:14.97 NEW SESSION
+6월 24, 2022 16:07:14.97 기존 브라우저 세션에서 여는 중입니다.
+6월 24, 2022 16:07:14.99 [13503:13503:0100/000000.990772:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 24, 2022 18:39:49.93 기존 브라우저 세션에서 여는 중입니다.
+6월 24, 2022 18:39:49.95 [16374:16374:0100/000000.950993:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 24, 2022 19:43:46.78 기존 브라우저 세션에서 여는 중입니다.
+6월 24, 2022 19:43:46.82 [18385:18385:0100/000000.821067:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 27, 2022 14:01:07.54 NEW SESSION
+6월 27, 2022 14:01:07.54 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 14:01:07.55 [10204:10204:0100/000000.548991:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 15:25:42.94 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 15:25:42.98 [13837:13837:0100/000000.985925:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 15:31:24.73 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 15:31:24.79 [14032:14032:0100/000000.794671:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 16:26:32.36 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 16:26:32.39 [15684:15684:0100/000000.391544:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 16:27:23.78 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 16:27:23.79 [15867:15867:0100/000000.792338:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 16:29:16.87 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 16:29:16.89 [16010:16010:0100/000000.890360:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 16:30:23.18 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 16:30:23.19 [16125:16125:0100/000000.193798:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 16:31:22.38 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 16:31:22.39 [16235:16235:0100/000000.397281:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 16:53:17.37 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 16:53:17.39 [16759:16759:0100/000000.392967:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 16:56:41.58 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 16:56:41.60 [16968:16968:0100/000000.607162:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 17:24:50.17 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 17:24:50.18 [17826:17826:0100/000000.187559:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 17:39:28.93 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 17:39:28.94 [18274:18274:0100/000000.949380:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+6월 27, 2022 17:42:32.77 기존 브라우저 세션에서 여는 중입니다.
+6월 27, 2022 17:42:32.79 [18406:18406:0100/000000.791647:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 28, 2022 17:25:49.53 NEW SESSION
+6월 28, 2022 17:25:49.53 기존 브라우저 세션에서 여는 중입니다.
+6월 28, 2022 17:25:49.58 [19898:19898:0100/000000.588839:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+6월 29, 2022 17:23:09.68 NEW SESSION
+6월 29, 2022 17:23:09.68 기존 브라우저 세션에서 여는 중입니다.
+6월 29, 2022 17:23:09.70 [16354:16354:0100/000000.700031:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+7월 04, 2022 14:28:35.27 NEW SESSION
+7월 04, 2022 14:28:35.27 기존 브라우저 세션에서 여는 중입니다.
+7월 04, 2022 14:28:35.27 [11081:11081:0100/000000.269349:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+7월 08, 2022 17:38:20.07 NEW SESSION
+7월 08, 2022 17:38:20.07 기존 브라우저 세션에서 여는 중입니다.
+7월 08, 2022 17:38:20.12 [15837:15837:0100/000000.127229:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+7월 11, 2022 15:21:12.04 NEW SESSION
+7월 11, 2022 15:21:12.04 기존 브라우저 세션에서 여는 중입니다.
+7월 11, 2022 15:21:12.05 [5763:5763:0100/000000.048677:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+7월 13, 2022 17:44:05.65 NEW SESSION
+7월 13, 2022 17:44:05.65 기존 브라우저 세션에서 여는 중입니다.
+7월 13, 2022 17:44:05.66 [18045:18045:0100/000000.658802:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+7월 21, 2022 16:40:21.45 NEW SESSION
+7월 21, 2022 16:40:21.45 기존 브라우저 세션에서 여는 중입니다.
+7월 21, 2022 16:40:21.47 [18199:18199:0100/000000.462029:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+7월 22, 2022 14:09:30.58 NEW SESSION
+7월 22, 2022 14:09:30.58 기존 브라우저 세션에서 여는 중입니다.
+7월 22, 2022 14:09:30.64 [20841:20841:0100/000000.619170:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+7월 28, 2022 09:40:18.54 NEW SESSION
+7월 28, 2022 09:40:18.54 기존 브라우저 세션에서 여는 중입니다.
+7월 28, 2022 09:40:18.63 [5102:5102:0100/000000.636443:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+7월 28, 2022 09:40:57.28 기존 브라우저 세션에서 여는 중입니다.
+7월 28, 2022 09:40:57.29 [5201:5201:0100/000000.296405:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+8월 16, 2022 09:16:34.02 NEW SESSION
+8월 16, 2022 09:16:34.02 기존 브라우저 세션에서 여는 중입니다.
+8월 16, 2022 09:16:34.04 [4247:4247:0100/000000.048669:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+8월 16, 2022 09:22:33.35 기존 브라우저 세션에서 여는 중입니다.
+8월 16, 2022 09:22:33.45 [4727:4727:0100/000000.457062:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+8월 16, 2022 09:42:54.32 기존 브라우저 세션에서 여는 중입니다.
+8월 16, 2022 09:42:54.34 [5757:5757:0100/000000.346370:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+9월 17, 2022 11:44:11.21 NEW SESSION
+9월 17, 2022 11:44:11.21 기존 브라우저 세션에서 여는 중입니다.

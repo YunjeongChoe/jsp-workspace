@@ -1,0 +1,51 @@
+1660445664538	Rename resource 'servlet-context.xml'
+1660445674101	Rename resource 'root-context.xml'
+1660445732834	Move file
+1660445740614	Move file
+1660445745163	Delete element
+1660446360446	Rename compilation unit 'FreeBoardController.java'
+1660446728140	Rename package 'com.myproj.page.vo'
+1660447747879	Rename package 'com.myproj.recipe.web'
+1660447794140	Rename package 'com.myproj.recipe.vo'
+1660447804450	Rename package 'com.myproj.recipe.dao'
+1660448385846	Rename package 'com.myproj.login.web'
+1660448407053	Rename package 'com.myproj.login.vo'
+1660448414955	Rename package 'com.myproj.login.dao'
+1660448460463	Rename package 'com.myproj.member.vo'
+1660448468148	Rename package 'com.myproj.member.dao'
+1660448514038	Rename package 'com.myproj.common.util'
+1660450650415	Rename package 'com.study.code.vo'
+1660450693595	Rename package 'com.study.code.dao'
+1660450702436	Rename package 'com.study.code.service'
+1660450786539	Delete element
+1660451102015	Delete element
+1660451104206	Delete element
+1660451258497	Delete element
+1660451275616	Rename package 'con.proj.exception'
+1660452895697	Rename package 'com.proj.common.valid.Modify'
+1660455097405	Rename resource 'member.xml'
+1660455774903	Rename package 'com.proj.login.dao'
+1660455787678	Rename type 'ILoginDao'
+1660455804596	Delete element
+1660455852205	Delete element
+1660456845651	Delete element
+1660456855234	Delete element
+1660456856841	Delete element
+1660456910235	Copy package
+1660456962894	Copy package
+1660457080438	Copy package
+1660457148031	Delete element
+1660457303570	Delete element
+1660457322656	Delete element
+1660457381178	Move compilation unit
+1660457384248	Delete element
+1660457407879	Move compilation unit
+1660457540247	Delete element
+1660457541874	Delete element
+1660457543581	Delete element
+1660457545552	Delete element
+1660457681576	Delete element
+1660458192595	Delete elements
+1660458254574	Delete element
+1660458490211	Delete element
+1660458999572	Delete element

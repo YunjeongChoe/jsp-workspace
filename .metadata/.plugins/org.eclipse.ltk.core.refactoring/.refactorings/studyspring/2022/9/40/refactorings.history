@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;studyspring/src/main/webapp/WEB-INF/views/todoRegist.jsp&apos; to &apos;backTo.jsp&apos;" description="Rename resource &apos;todoRegist.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/todoRegist.jsp" name="backTo.jsp" stamp="1664267587522" updateReferences="true"/>
+</session>

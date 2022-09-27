@@ -1,0 +1,23 @@
+0. lib 받는거
+
+1. 컨트롤러에서 검사 할 객체에 @validated,    검사 결과 객체인 BindingResult 붙이기
+
+2. FreeBoardVO에 검사 할 내용 지정해주기
+
+3. 검사 실패했을 때 화면(freeEdit)에서 뭐가 잘못됐는지 메세지 보여주기
+	(form:form 태그 사용)
+	(modelAttribute에 "freeBoard"있어야 함)
+	
+4. 같은 VO에서도 필드에 따라 Regist에서는 검사 안하고 Modify에서만 검사해야 하는 경우가 있다.
+	=> 검사하는 곳을 지정 ( Interface .Class 파일을 지정)
+	
+
+
+
+
+
+
+
+
+
+

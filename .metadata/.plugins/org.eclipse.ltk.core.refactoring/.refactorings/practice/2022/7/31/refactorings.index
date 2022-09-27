@@ -1,0 +1,16 @@
+1658965623196	Rename resource 'servlet-context.xml'
+1658965635418	Rename resource 'root-context.xml'
+1658965690398	Delete element
+1658965701735	Copy file
+1658965706066	Copy file
+1658965713579	Delete element
+1658967503898	Rename type 'IFreeDao'
+1659000545451	Rename resource 'servlet-context.xml'
+1659000553405	Rename resource 'MVC-servlet.xml'
+1659000564260	Rename resource 'root-context.xml'
+1659000600701	Copy file
+1659000603713	Copy file
+1659000606699	Delete element
+1659000786530	Copy folder
+1659000793065	Delete element
+1659002825367	Move 'freeList.jsp' to 'free'

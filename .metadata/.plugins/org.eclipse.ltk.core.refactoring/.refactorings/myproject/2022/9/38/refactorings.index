@@ -1,0 +1,17 @@
+1663047587649	Rename package 'com.a.user'
+1663048545091	Rename type 'UserDao'
+1663049648911	Move 'signup.jsp' to 'vege'
+1663050518871	Move 'signup.jsp' to 'views'
+1663050939464	Move 'signup.jsp' to 'more'
+1663051001597	Delete element
+1663051622900	Rename package 'com.a.user.web'
+1663052688491	Rename package 'com.a.user.vo'
+1663052702847	Rename package 'com.a.user.dao'
+1663055721596	Rename type 'UserService'
+1663056143799	Rename type 'Con'
+1663056189778	Delete element
+1663056201578	Rename resource 'userView.jsp'
+1663056856852	Delete elements
+1663056867505	Delete element
+1663058207522	Copy package
+1663058462861	Delete element

@@ -1,0 +1,22 @@
+
+log4j, AOP, interceptor
+
+
+log4j : test / resources에 있는 log4j.xml이 우선순위가 높다. 그래서 지워준
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.study.free.dao.IFreeBoardDao">
+	
+	<sql id="search">
+				 <if test="@org.apache.commons.lang3.StringUtils@isNotBlank(searchWord)">
+			<choose>
+				<when test='searchType=="T"'>AND bo_title LIKE '%' ||  #{searchWord}  || '%'</when>
+				<when test='searchType=="W"'>AND bo_writer LIKE '%' ||  #{searchWord}  || '%'</when>
+				<when test='searchType=="C"'>AND bo_content LIKE '%' ||  #{searchWord}  || '%'</when>
+			</choose>
+		</if>
+		
+		<if test="@org.apache.commons.lang3.StringUtils@isNotBlank(searchCategory)">
+			AND bo_category =   #{searchCategory}
+		</if>
+	</sql>
+	
+	
+	
+	
+	<select id="getTotalRowCount" resultType="int" parameterType="com.study.free.vo.FreeBoardSearchVO">
+		SELECT count(*)
+		FROM board_free
+		WHERE bo_del_yn = 'N'
+	
+	<!--
+		web.xml에서 DriverLoader 지우기
+		1. test="" 안에서 searchType == 다른 곳에서의 #{searchType}
+		2. 정적 메소드 사용법 : @클래스풀네임@메소드이름(매개변수)
+	 -->
+ 	<include refid="search"></include>
+	                        
+	</select>
+	
+	
+	
+	
+	
+	<select id="getBoardList" resultType="com.study.free.vo.FreeBoardVO" parameterType="com.study.free.vo.FreeBoardSearchVO">
+		  SELECT *  FROM                  (                    
+		  SELECT a.*, ROWNUM as rnum FROM (                                                                        
+		  SELECT                                                
+		      bo_no       , bo_title  , bo_category            
+		    , bo_writer   , bo_pass   , bo_content             
+		    , bo_hit                                           
+		    , TO_CHAR(bo_reg_date,'YYYY-MM-dd') AS bo_reg_date 
+		    , TO_CHAR(bo_mod_date,'YYYY-MM-dd') AS bo_mod_date 
+		    , bo_del_yn                                        
+		                                                       
+		    , b.cate_nm  AS bo_category_nm                     
+		                                                       
+		 FROM board_free a, cate_code b                        
+		 WHERE a.bo_category = b.cate_cd                       
+		 AND bo_del_yn = 'N'  
+		 <include refid="search"></include>
+		 ORDER BY bo_no desc          
+		   )   a                     
+		   )   b                     
+		WHERE rnum BETWEEN #{firstRow}  AND #{lastRow}                                
+	</select>
+	
+	
+	
+	
+	<resultMap type="com.study.free.vo.FreeBoardVO" id="freeAttaches">
+		<!-- 일 대 다 관계일 때 collection . property는 FreeBoardVO는 내가 세팅하고 싶은 필드명 -->
+		<collection property="attaches" ofType="com.study.attach.vo.AttachVO" 
+		column="{atchParentNo=bo_no, atchCategory=bo_type}" 
+		select="com.study.attach.dao.IAttachDao.getAttachListByParent"></collection>
+	</resultMap>
+	<select id="getBoard" resultType="com.study.free.vo.FreeBoardVO" parameterType="int" resultMap="freeAttaches">
+		
+		SELECT
+		'FREE' AS bo_type
+	   , bo_no       , bo_title  , bo_category
+	   , bo_writer   , bo_pass   , bo_content
+	   , bo_hit
+	   , TO_CHAR(bo_reg_date,'YYYY-MM-dd') AS bo_reg_date
+	   , TO_CHAR(bo_mod_date,'YYYY-MM-dd') AS bo_mod_date
+	   , bo_del_yn
+	                                                     
+	   , b.cate_nm AS bo_category_nm
+	                                                     
+		FROM  board_free a, cate_code b
+		WHERE bo_no=   #{boNo}
+		AND a.bo_category = b.cate_cd
+	</select>
+	
+	
+	
+	
+	<update id="increaseHit" parameterType="int">
+		UPDATE board_free SET
+		bo_hit = bo_hit+1
+		WHERE bo_no = #{boNo}
+	</update>
+	
+	
+	
+	<!-- FreeBoardVO #{필드명}	EL과 형식은 비슷하지만 상관 없음 -->
+	<!--  ${필드명} 사용 가능 -->
+	<!-- #{필드명} => PreparedStatement, ${필드명} => Statement -->
+	<update id="updateBoard" parameterType="com.study.free.vo.FreeBoardVO">
+		UPDATE board_free SET
+		 bo_title=#{boTitle}
+		,bo_category=#{boCategory}
+		,bo_content=#{boContent}
+		,bo_mod_date=sysdate
+		WHERE bo_no=#{boNo}
+	</update>	
+	
+	<update id="deleteBoard" parameterType="com.study.free.vo.FreeBoardVO">
+		UPDATE board_free SET
+		bo_del_yn='Y'
+		WHERE bo_no=#{boNo}
+	</update>
+	
+	<insert id="insertBoard" parameterType="com.study.free.vo.FreeBoardVO">
+		<selectKey order="BEFORE"  keyProperty="boNo" resultType="int">
+			SELECT seq_board_free.nextval           from dual
+		</selectKey>
+			INSERT INTO board_free (
+		     bo_no      , bo_title     , bo_category
+		   , bo_writer  , bo_pass      , bo_content
+		   , bo_hit     , bo_reg_date  , bo_mod_date
+		   , bo_del_yn
+			) VALUES (
+		      #{boNo}          ,   #{boTitle}     ,  #{boCategory}
+		   ,  #{boWriter}      ,   #{boPass}      ,  #{boContent}
+		   ,  0                ,   sysdate        , null
+		   , 'N'
+		  )
+	</insert>
+	
+	
+	
+</mapper>

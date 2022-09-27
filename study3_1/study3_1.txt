@@ -1,0 +1,9 @@
+study3=MVC패턴 (요청이 올 때 마다 DispatcherServlet의 Service 메소드가 실행 됨)
+
+study3_1 : Mybatis
+PersistenLayer(DAO) 프레임워크다.
+
+service에서 FreeBoardDaoOracle대신, mybatis의 mapper.xml파일이 실행되도록 할것
+
+
+

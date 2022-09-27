@@ -1,0 +1,64 @@
+계층화 아키텍쳐
+1. Presentation : view(jsp, mustache, tymeleaf)
+	-화면
+	-jsp JSP, mustache 
+2. Controller ayer:     Controller
+	요청처리, 흐름제l어,(지금은 .jsp로 요청하지만, 장우네느 sjp화면이 보이기전에 여러가지 작업을 한 다음 jps 화면으로 화면 이동
+	-Exception
+3. Business  : service
+	비즈니스 로직, Transaction
+
+4.Persistence (영속성) layer : DAO
+	-DB저급, 오로지 DB접근
+5.Domain Layer : VO, DTO
+	-db에서 얻은 객체
+
+-----------------------------------------------------------------------------------------------------------------
+효율성(중요X) : 시간(자바파일 실행하는 시간 << DB데이터 가지고 오는 시간 
+		공간(JVM 메모리, )
+유지보수(+확장)
+	-변경에 유연하다. 변경사항이 있을 때 코드를 얼마나 바꿔야
+	
+---------------------------------------------------------------------
+
+최종목표 : JSP자바 소스코드 안보여야..
+
+---------------------------------------------------------------------
+
+Exception 처리
+
+
+1. free는 비밀번호를 안 바꿈. 글쓴 사람 확인용.
+member는 비밀번호도 그냥 update
+id 중복체크
+ - id를 사용자가 입력. (pk)
+ - DB에 해당 id가 있는지 확인. 있으면 throw new BizDuplicateKetException
+  							 없으면 그냥 insert
+2. Exception 적절히 처리하기
+	getMember했는데 DB에 없다 => BizNotFoundException
+	update쿼리 실행했는데 cnt가 0이다 -> BizNotEffectedException
+	
+-----------------------------------------------------------------------
+
+SingleTon
+FreeBoardServiceImpl, DaoOracle같은 구현체들은 SingleTon으로 만드는게 좋다
+보통 데이터를 저장하지 않고, 특정 기능만 수행하는 클래스들은 SingleTon으로 만드는게 좋다. (Service, Dao)
+데이터를 저장해야되는 클래스들은 객체를 여러개.. (VO는 싱글톤으로 하지 않음)
+	
+	
+싱글톤 만드는 방법
+ - 생성자를 private으로 (new **() 으로 객체 생성 못함)
+ - 클래스 내부에서 정적 (.this타입 )필드 선언
+ - public으로 정적메소드 getInstance 만들기
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

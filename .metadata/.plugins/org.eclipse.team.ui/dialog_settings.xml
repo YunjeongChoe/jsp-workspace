@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SynchronizeViewSettings">
+		<item key="linkWithEditor" value="false"/>
+		<item key="lastactiveparticipant_id" value="org.tigris.subversion.subclipse.participant"/>
+		<item key="lastactiveparticipant_sec_id" value="1659342975975"/>
+		<section name="org.tigris.subversion.subclipse.participant.1659079353770">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1659080075247">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1659080151600">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1659080488083">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1659334844212">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1659337590375">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1659340366301">
+		</section>
+		<section name="org.tigris.subversion.subclipse.participant.1659342975975">
+			<item key="org.eclipse.team.ui.P_LAST_MODELPROVIDER" value="org.eclipse.team.ui.modelprovider_compressedfolders"/>
+			<item key="org.eclipse.team.ui.P_COMMIT_SET_ENABLED" value="false"/>
+		</section>
+	</section>
+	<section name="ConfigureProjectWizard">
+		<item key="selectedWizardId" value="org.tigris.subversion.subclipse.ui.SharingWizard"/>
+	</section>
+</section>

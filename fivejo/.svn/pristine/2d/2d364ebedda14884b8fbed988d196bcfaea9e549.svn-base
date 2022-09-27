@@ -1,0 +1,12 @@
+package com.five.jo.dao;
+
+import java.util.List;
+
+import org.apache.ibatis.annotations.Mapper;
+
+import com.five.jo.vo.AlcoholVO;
+
+@Mapper
+public interface IAlcoholDao {
+	 List<AlcoholVO> alcoholList(); 
+}
